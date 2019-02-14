@@ -2,6 +2,6 @@ import React, { Component } from 'react';
 
 export default class App extends Component {
   render () {
-    return <div>Hello boilerplate</div>
+    return <div>Hello boilerplates </div>
   }
 }
